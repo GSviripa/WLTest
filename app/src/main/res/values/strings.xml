@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WLTest</string>
+    <string name="sign_in">Sign In</string>
+    <string name="community">Community</string>
+</resources>
